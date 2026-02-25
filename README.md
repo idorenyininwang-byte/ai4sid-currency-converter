@@ -44,5 +44,5 @@ Develop a **hybrid mobile/USSD/SMS-based AI tool** that is offline-capable for e
 - FMOH/NPHCDA for policy alignment, data access, and scale-up.  
 - NGOs (UNICEF, MSF, IRC) for ground-truth labels, pilot testing, and field validation.
 
-Submitted by: Idorenyin  
+Submitted by: Idorenyin Mfon Inwang
 Date: February 25, 2026
